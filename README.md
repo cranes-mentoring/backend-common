@@ -2,16 +2,17 @@
 
 
 1. languages
-2. spring
-3. sql
-4. tests
-5. caching
-6. tracing (opentelemetry)
-7. grpc
-8. message queue - kafka
-9. e2e tests
-10. patterns
-11. databases
-12. docker
-13. k8s
-14. load testing
+2. code style
+3. spring
+4. sql
+5. tests
+6. caching
+7. tracing (opentelemetry)
+8. grpc
+9. message queue - kafka
+10. e2e tests
+11. patterns
+12. databases
+13. docker
+14. k8s
+15. load testing
